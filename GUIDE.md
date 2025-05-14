@@ -188,7 +188,7 @@ There are many different kinds of text files, created for different reasons. The
 
 The key thing about source code is that it is written to be read by compilers. Since compilers are software, another way of phrasing this is that source code is written to be read by computers. Good code is also written so that other humans, if they are skilled and educated in the field of software, can understand it; but it is only correct if a compiler can understand it.
 
-That compiler will, in turn, through complicated sequences described in the Tech Tree, convert the source code into the sequences of ones and zeros that will cause the computer to perform the functions and activities described by the code. To take a very simple example, the line of code
+That compiler will, in turn, through complicated sequences described in the Tech Tree, convert the source code into the sequences of ones and zeros that will cause the computer to perform the functions and activities described by the code. To take a very simple example, the line of code :
 
     _for (int i=0; i<5; i++) { }_
 
